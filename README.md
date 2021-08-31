@@ -41,5 +41,3 @@ Or just send me an ✉️email to: <a href="grovile11@hotmail.com?subject=Quiero
 
 <br>
 <img src="https://gpvc.arturio.dev/Luichigo15"> <img src="/bakugo.gif" alt="bakugo" height="80">
-<br>
-[![My stats](https://github-readme-stats.vercel.app/api?username=Luichigo15)](https://github.com/anuraghazra/github-readme-stats)
