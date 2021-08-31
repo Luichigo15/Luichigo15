@@ -9,6 +9,7 @@ Also I really love romance💙 and fantasy🧙‍♂️ novels, I'm fan of The s
 - 👨‍💼 I'm currenty working at <img src="https://www.blmovil.com/wp-content/uploads/sites/3/2018/11/cropped-cropped-logoBLM-6.png" height="30"> as mobile and web developer.
 - 🔥 I'm learnig more about Android,Flutter and other things!.
 - 💬 Ask me about everything, maybe I can help you!😄
+- I'm an organizer at <a href="https://gdg.community.dev/gdg-lerma-de-villada/">🇲🇽GDG Lerma de Villada </a>, if you want you can join us!🔥
 
 ## Skills
 
