@@ -40,4 +40,5 @@ Follow me on my social networks and send me a message😄
 Or just send me an ✉️email to: <a href="grovile11@hotmail.com?subject=Quiero%20ser%20%tu%20amigo"><b>grovile11@hotmail.com</b></a>
 
 <br>
-![](https://komarev.com/ghpvc/?username=Luichigo15&color=336bff&style=flat-square) <img src="/bakugo.gif" alt="bakugo" height="80">
+![Profile views](https://gpvc.arturio.dev/Luichigo15) 
+<img src="/bakugo.gif" alt="bakugo" height="80">
