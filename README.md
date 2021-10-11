@@ -6,10 +6,10 @@ I'm a computer systems engineer and I love programming, especially mobile👽 an
 <br>
 Also I really love romance💙 and fantasy🧙‍♂️ novels, I'm fan of The shadow hunters🌠 and Me before you💌.
 - 🏆 On September 1,I will start with 100 days of code challenge😄🔥
-- 👨‍💼 I'm currenty working at <img src="https://www.blmovil.com/wp-content/uploads/sites/3/2018/11/cropped-cropped-logoBLM-6.png" height="30"> as mobile and web developer.
+- 👨‍💼 I'm currenty working at <img src="https://satoritech.com.mx/img/logo.png" height="30"> as android developer.
 - 🔥 I'm learnig more about Android,Flutter and other things!.
 - 💬 Ask me about everything, maybe I can help you!😄
-- I'm an organizer at <a href="https://gdg.community.dev/gdg-lerma-de-villada/">🇲🇽GDG Lerma de Villada </a>, if you want you can join us!🔥
+- I'm an organizer at <a href="https://gdg.community.dev/gdg-lerma-de-villada/">GDG Lerma de Villada </a>, if you want you can join us!🔥
 
 ## Skills
 
