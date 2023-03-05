@@ -5,7 +5,7 @@
 I'm a computer systems engineer and I love programming, especially mobile👽 and web🌐 programming because I think it's the best way to connect with people🧑‍🤝‍🧑.
 <br>
 Also I really love romance💙 and fantasy🧙‍♂️ novels, I'm fan of The shadow hunters🌠 and Me before you💌.
-- 👨‍💼 I'm currenty working at <img src="https://satoritech.com.mx/img/logo.png" height="30"> as android developer.
+- 👨‍💼 I'm currently working at <img src="https://satoritech.com.mx/img/web/new/Logotipo/logo-Satoritech-2022.svg" height="30"> as android developer.
 - 🔥 I'm learnig more about Android,Flutter and other things!.
 - 💬 Ask me about everything, maybe I can help you!😄
 - I'm an organizer at <a href="https://gdg.community.dev/gdg-lerma-de-villada/">GDG Lerma de Villada </a>, if you want you can join us!🔥
@@ -34,7 +34,6 @@ Also I really love romance💙 and fantasy🧙‍♂️ novels, I'm fan of The s
 Follow me on my social networks and send me a message😄
 <br>
 [<img src="/instagram.png" height="40">](https://www.instagram.com/luichigo15/)
-[<img src="/twitter.svg" height="40">](https://twitter.com/luichigo15)
 [<img src="/linkedin.png" height="40">](https://www.linkedin.com/in/luis-alberto-juarez-calixto-29b0601b9/)
 <br>
 Or just send me an ✉️email to: <a href="grovile11@hotmail.com?subject=Quiero%20ser%20%tu%20amigo"><b>grovile11@hotmail.com</b></a>
