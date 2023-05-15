@@ -33,8 +33,7 @@ Also I really love romance💙 and fantasy🧙‍♂️ novels, I'm fan of The s
 ## Want to be my friend?
 Follow me on my social networks and send me a message😄
 <br>
-[<img src="/instagram.png" height="40">](https://www.instagram.com/luichigo15/)
-[<img src="/linkedin.png" height="40">](https://www.linkedin.com/in/luis-alberto-juarez-calixto-29b0601b9/)
+[<img src="/linktree-logo-icon.png" height="40">](https://linktr.ee/Luichigo15)
 <br>
 Or just send me an ✉️email to: <a href="grovile11@hotmail.com?subject=Quiero%20ser%20%tu%20amigo"><b>grovile11@hotmail.com</b></a>
 
